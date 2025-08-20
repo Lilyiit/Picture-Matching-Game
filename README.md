@@ -11,12 +11,6 @@ A fun and simple **memory card matching game** built with **Python & Pygame**. M
   <img src="./images/mermaid.png" width="150px" style="margin:5px"/>
   <img src="./images/map.png" width="150px" style="margin:5px"/>
 </p>
-
-<p align="center">
-  <img src="./images/desen.png" width="300px" style="margin:10px"/>
-  <img src="./images/sword.png" width="300px" style="margin:10px"/>
-</p>
-
 ---
 
 ## ⚡ Features
